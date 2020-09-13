@@ -1,4 +1,4 @@
-Customer churn predicting  
+# Customer churn predicting  
 
 Portfolio repository with an example of model for predicting customer churn
 
